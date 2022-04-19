@@ -1,6 +1,6 @@
 # principal-component-analysis-PCA
 
-For details, see [notebook](PCA.ipynb). PCA is implemented with numpy and scipy to better understand PCA.
+For details, see [notebook](pca.ipynb). PCA is implemented with numpy and scipy to better understand PCA.
 
 ### Sample data from MNIST dataset
 
